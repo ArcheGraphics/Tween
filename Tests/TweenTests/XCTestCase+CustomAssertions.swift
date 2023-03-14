@@ -8,7 +8,6 @@ import XCTest
 @testable import Tween
 
 extension XCTestCase {
-
     enum Filter {
         case none
         case onlyMatchingExpectedEventsTypes
